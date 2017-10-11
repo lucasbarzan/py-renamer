@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
  name='pyrenamer',
- version='1.0',
+ version='1.1',
  py_modules=['pyrenamer'],
  author='Lucas Barzan',
  author_email='codenific.com@gmail.com',
